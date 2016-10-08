@@ -1,0 +1,42 @@
+{
+  "name": "yii2-advanced-with-gulp-bootstrap-sass",
+  "version": "1.0.0",
+  "description": "A Yii2 Advanced Template combined with Gulp and Bootstrap-sass package",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joenmarz/yii2-advanced-with-gulp-bootstrap-sass.git"
+  },
+  "author": "Larry Benedicto Marzan Jr.",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/joenmarz/yii2-advanced-with-gulp-bootstrap-sass/issues"
+  },
+  "homepage": "https://github.com/joenmarz/yii2-advanced-with-gulp-bootstrap-sass#readme",
+  "devDependencies": {
+    "bootstrap-sass": "^3.3.7",
+    "browser-sync": "^2.17.0",
+    "del": "^2.2.2",
+    "es6-promise": "^4.0.5",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.1",
+    "gulp-cache": "^0.4.5",
+    "gulp-concat": "^2.6.0",
+    "gulp-imagemin": "^3.0.3",
+    "gulp-inject": "^4.1.0",
+    "gulp-jshint": "^2.0.1",
+    "gulp-minify-css": "^1.2.4",
+    "gulp-notify": "^2.2.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^2.3.2",
+    "gulp-sourcemaps": "^1.6.0",
+    "gulp-uglify": "^2.0.0",
+    "jshint": "^2.9.3"
+  }
+}
